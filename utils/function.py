@@ -2,7 +2,7 @@ from meteostat import Point, Daily
 from datetime import datetime
 import pandas as pd
 
-path = r"C:\Users\nolev\Desktop\M2_EDS\Softwares\frostapp\communes_france_loca.csv"
+path = "communes_france_loca.csv"
 
 df = pd.read_csv(
     path,

@@ -1,0 +1,4 @@
+streamlit>=1.38
+matplotlib>=3.8
+pandas>=2.2
+meteostat>=1.6
